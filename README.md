@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdi</h1>
 <div align="center">
 
-**Passionate for do nothing**
+**Passionate for do nothing 🤣**
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmarulabdi&theme=tokyonight&hide_border=true) -->
 
